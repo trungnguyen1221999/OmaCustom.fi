@@ -1,6 +1,9 @@
 # [OmaCustom.fi](http://OmaCustom.fi)
  - Personalized Products E-commerce
-
+<p align="center">
+  <img src="https://i.imgur.com/C2NAzYU.png" alt="OmaCustom.fi Logo" width="1000"/>
+   <img src="https://i.imgur.com/0azuuDK.png" alt="OmaCustom.fi Logo" width="1000"/>
+</p>
 Welcome to **OmaCustom.fi**, your one-stop shop for custom-made products! 🎉  
 I specialize in creating personalized items like t-shirts, mugs, towels, and blankets, all crafted to match your unique style.  
 
